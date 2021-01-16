@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f85e0d9b820217243a36b7bf233e7b2c
+timeCreated: 1545150551
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RedFive
+  fontNames:
+  - RedFive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
